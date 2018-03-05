@@ -13,7 +13,7 @@ body {
 }
 
 #gameBoard {
-  width: 200px;
+  width: 840px;
   margin: 0 auto;
   padding: 100px;
 }
@@ -107,7 +107,7 @@ h1 {
     left:45%;
   }
 
-#win {
+#You-Win {
   background-color: white;
   height:50px;
   width: 50px
