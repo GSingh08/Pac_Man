@@ -20,27 +20,46 @@ Use this section to describe your final project and perhaps any links to relevan
 Priority Matrix
 Include a full list of features that have been prioritized based on the Time and Importance Matix.
 
+      1. I created my array of different pieces of the game like the wall, the dots, and pacman
+      2. I found pacman's position on the board
+      3. I created my pacman game board
+      4. Got pacman moving using the arrow keys
+      5. have him detect walls and dots
+      
+
 MVP
 Include the full list of features that will be part of your MVP
+    
+      1. Get Pacman on screen
+      2. Also get the entire board on screen.
 
 POST MVP
 Include the full list of features that you are considering for POST MVP
+
+  Post MVP my game is fully funtional, Pacman is on the board and is eating the dots.  As he is traveling the board he is detecting if there are walls around him.  If there are walls around him, he will not go into that direction.  Also, Every dot Pacman eats, the score goes up by 1 point.  Once all the dots are eaten the user wins the game and then has the option of restarting. 
 
 Wireframes
 Include images of your wireframes.
 
 Game Components
 Landing Page
-What will a player see when they start your game?
+
+  My landing page will be ver minimialistic.  It will only have a start button that the user can click to go to the game page.
 
 Game Initialization
 What will a player see when the game is started?
 
+  Once the player clicks the start button it will take them to the game.  In the game page the user will see pacman in a board surrounded by dots and walls.  his job is to go around collecting all the dots.  There will be a play again button to reset and a score counter on the top right of the page.
+
 Playing The Game
-What will be the flow of the game, what will the user be expected to do and what will the user expect from the gam
+What will be the flow of the game, what will the user be expected to do and what will the user expect from the game.
+
+The user will be expected to use the arrow keys and move around the game to collect all the dots and increase their score.
 
 Winning The Game
 What does it look like when the game ends, what determines winning or losing?
+
+Once the dots are collected, an alert will pop up showing the user they have won.  
 
 Game Reset
 How will the user restart the game once it has been completed.
