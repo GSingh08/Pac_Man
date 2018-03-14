@@ -64,6 +64,8 @@ Once the dots are collected, an alert will pop up showing the user they have won
 Game Reset
 How will the user restart the game once it has been completed.
 
+There will be a "Play Again?" button at the bottom of the screen for the user to click if they want to play again.
+
 Functional Components
 Based on the initial logic defined in the previous game phases section try and breakdown the logic further into functional components, and by that we mean functions. Does your logic indicate that code could be encapsulated for the purpose of reusablility. Once a function has been defined it can then be incorporated into a class as a method.
 
@@ -87,6 +89,8 @@ Use this section to document what changes were made and the reasoning behind tho
 
 Issues and Resolutions
 Use this section to list of all major issues encountered and their resolution.
+
+Most of the problems I encountered were because of scope and where I was calling my function.  This project has helped me understand scope and calling my functions more than I did before.  Also, Getting pacman to move was very difficult as well as detecting if there is a wall infront of pacman.  What helped me resolve was to break down everything into very small pieces and get that small piece to work. 
 
 SAMPLE.....
 ERROR: app.js:34 Uncaught SyntaxError: Unexpected identifier
